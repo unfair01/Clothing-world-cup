@@ -1,0 +1,14 @@
+#container {
+    display: flex;
+    justify-content: center;
+}
+img {
+    max-width: 300px;
+    margin: 10px;
+    cursor: pointer; /* 마우스 커서 변경 */
+}
+#result {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
